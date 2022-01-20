@@ -1,7 +1,7 @@
 
 
 /**
- *  IIFE -Immediately Invoked Function Expression
+ *  IIFE -Immediately Invoked Function Expression Google it for more info !!!
  */
 
 (function () {
